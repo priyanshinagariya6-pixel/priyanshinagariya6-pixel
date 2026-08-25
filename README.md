@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanshi Nagariya</h1>
 
-<h3 align="center">2nd Year CSE-AI Student | DSA | Web Development | Machine Learning</h3>
+<h3 align="center">2nd Year AI&DS Student | DSA | Web Development | Machine Learning</h3>
 
 <p align="center">
   <a href="https://github.com/priyanshinagariya06-pixel">
@@ -15,7 +15,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 2nd Year CSE-AI Student
+- 🎓 2nd Year AI&DS Student
 - 💻 Currently learning **DSA, C++, React, Python & Machine Learning**
 - 🌱 Building projects and improving my problem-solving skills
 - 🚀 Interested in **Software Development, AI & ML**
