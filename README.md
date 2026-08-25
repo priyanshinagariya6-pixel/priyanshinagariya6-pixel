@@ -10,14 +10,16 @@
 
 ## 👩‍💻 About Me
 
-Hi! I'm **Priyanshi Nagariya**, a computer science student passionate
+Hi! I'm **Priyanshi Nagariya**,( hardworking + consistent ) a computer science student passionate
 about **Software Development, Artificial Intelligence, Machine Learning,
 and Problem Solving**.
 
 I enjoy learning new technologies and turning ideas into practical
-projects. Currently, I'm focusing on strengthening my **DSA and C++**
+projects. Currently, I'm improving my skills on **DSA and C++**
 skills while building projects with **React, JavaScript, Python and
 Machine Learning**.
+I'm interested in coding, sleeping, and watching movies 
+My quote is "It's never too late - never too late to start over, never too late to be happy"
 
 ### 🚀 What I'm Currently Working On
 
@@ -31,12 +33,12 @@ Machine Learning**.
 
 ### 🎯 My Goal
 
-> Keep learning, keep building, solve real-world problems, and become a
+> Keep learning, keep building,  solve real-world problems, and become a
 > strong software engineer.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,vite,tailwind,fastapi,git,github,vscode,postgresql,mysql" />
@@ -64,7 +66,6 @@ AI + Full-Stack Projects
 
 ---
 
-## 🎮 My Pac-Man Contribution Graph
 
 <p align="center">
   <img
@@ -74,34 +75,9 @@ AI + Full-Stack Projects
   />
 </p>
 
----
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshinagariya6-pixel&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshinagariya6-pixel&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=priyanshinagariya6-pixel&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/priyanshinagariya6-pixel/priyanshinagariya06-pixel/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
-## 🌱 Let's Connect
+ 🌐 Let's Connect
 
 <p align="center">
   <a href="https://github.com/priyanshinagariya6-pixel">
@@ -110,6 +86,12 @@ AI + Full-Stack Projects
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://wa.me/9691952249"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
+  
+  <a href="mailto:priyanshinagariya6@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+  
+  <a href="https://instagram.com/its_priyu_9691"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
+  
 </p>
 
 <h3 align="center">
